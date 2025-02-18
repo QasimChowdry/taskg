@@ -1,4 +1,4 @@
-# TaskGo RX Frontend
+# TaskG RX React-Typescript-Tailwind 
 
 This project is a Next.js application bootstrapped with `create-next-app`.
 
