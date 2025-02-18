@@ -13,8 +13,8 @@ To get started with the development server, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/taskgo-rx-frontend.git
-   cd taskgo-rx-frontend
+   git clone repo
+   cd taskg
 2. **Install dependencies:**
      ```bash
    npm install
